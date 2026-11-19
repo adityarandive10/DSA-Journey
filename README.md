@@ -330,9 +330,9 @@ DSA-Journey/
 
 
 
-\- \[LeetCode](https://leetcode.com/)
+\- \[LeetCode](https://leetcode.com/u/mr\_ad1tya/)
 
-\- \[CodeChef](https://www.codechef.com/)
+\- \[CodeChef](https://www.codechef.com/users/mr\_ad1tya)
 
 \- \[Codeforces](https://codeforces.com/)
 
